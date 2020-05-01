@@ -1,4 +1,4 @@
-# SSH Server
+# Docker SSH Server
 Docker container with ssh server (jump host)
 
 <p>
