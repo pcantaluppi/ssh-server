@@ -1,4 +1,4 @@
-# ssh server
+# SSH Server
 Docker container with ssh server
 
 <p>
