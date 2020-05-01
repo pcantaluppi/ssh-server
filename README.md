@@ -1,2 +1,2 @@
 # SSH Server
-Docker container with ssh server
+Docker container with SSH Server
