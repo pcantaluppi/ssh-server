@@ -1,5 +1,5 @@
-# SSH Server
-Docker container with SSH Server
+# ssh server
+Docker container with ssh server
 
 <p>
 <img src="https://github.com/pcantaluppi/ssh-server/blob/master/img/jumphost.png?raw=true" alt="Jump Host" />
